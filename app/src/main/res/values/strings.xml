@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Lab 1</string>
+    <string name="flag_of_mongolia_description">Flag of Mongolia</string>
+    <string name="mongolia_hymn_title">Hymn of Mongolia</string>
+    <string name="mongolia_hymn_text">Дархан манай тусгаар улс\nДаяар монголын ариун голомт\nДалай их дээдсийн гэгээн үйлс\nДандаа энхжиж, үүрд мөнхөжнө.</string>
+    <string name="country_region_title">Asia</string>
+    <string name="country_title">Mongolia</string>
+    <string name="country_mongolia_flag_description">This is a flag of Mongolia</string>
 </resources>
