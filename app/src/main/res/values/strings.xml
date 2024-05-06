@@ -1,9 +1,33 @@
 <resources>
-    <string name="app_name">Lab 1</string>
-    <string name="flag_of_mongolia_description">Flag of Mongolia</string>
-    <string name="mongolia_hymn_title">Hymn of Mongolia</string>
-    <string name="mongolia_hymn_text">Дархан манай тусгаар улс\nДаяар монголын ариун голомт\nДалай их дээдсийн гэгээн үйлс\nДандаа энхжиж, үүрд мөнхөжнө.</string>
-    <string name="country_region_title">Asia</string>
-    <string name="country_title">Mongolia</string>
-    <string name="country_mongolia_flag_description">This is a flag of Mongolia</string>
+    <string name="app_name">My Application</string>
+    <string name="chooser">Send message via...</string>
+
+    <string-array name="countries">
+        <item>Mongolia</item>
+        <item>Colombia</item>
+        <item>Canada</item>
+        <item>United Kingdom</item>
+    </string-array>
+
+    <string name="anthem_mongolia">
+        Дархан манай тусгаар улс\nДаяар монголын ариун голомт\nДалай их дээдсийн гэгээн үйлс\nДандаа энхжиж, үүрд мөнхөжнө.
+    </string>
+
+    <string name="anthem_colombia">
+        Gloria eterna a la Nueva Granada,\nQue, formando una nueva nación,\nHoy levanta ya el templo sagrado\nDe las leyes, la paz y la unión.
+    </string>
+
+    <string name="anthem_uk">
+       God save our gracious King!\nLong live our noble King!\nGod save the King!\nSend him victorious,
+    </string>
+
+    <string name="anthem_canada">
+        O Canada!\nOur home and native land!\nTrue patriot love in all of us command.\nWith glowing hearts we see thee rise,\nThe True North strong and free!
+    </string>
+
+    <!--Regions-->
+    <string name="region_mongolia">Asia</string>
+    <string name="region_colombia">South America</string>
+    <string name="region_canada">North America</string>
+    <string name="region_united_kingdom">Europe</string>
 </resources>
